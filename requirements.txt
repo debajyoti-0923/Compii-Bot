@@ -1,0 +1,10 @@
+discord
+requests
+python-dotenv
+requests_html
+asyncio
+aiosqlite
+html5lib
+asyncpraw
+Pillow
+table2ascii
